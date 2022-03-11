@@ -1,0 +1,14 @@
+.form-container {
+  max-width: 500px;
+  margin: auto;
+  margin-top: 50px;
+}
+
+input.ng-invalid.ng-touched,
+textarea.ng-invalid.ng-touched {
+  border: 1px solid red;
+}
+
+.is-grouped {
+  margin-top: 20px;
+}
